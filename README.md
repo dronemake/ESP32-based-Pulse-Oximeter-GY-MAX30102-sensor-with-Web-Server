@@ -11,11 +11,11 @@ To make the project portable and accessible via a Wi-Fi connection
 ## Hardware Components:
 
 
-ESP32 Development Board
-MAX30100 Pulse Oximeter Sensor
-Connecting Wires
-Breadboard or PCB
-Power Supply
+ESP32 Development Board,
+MAX30100 Pulse Oximeter Sensor,
+Connecting Wires,
+Breadboard or PCB,
+Power Supply,
 
 
 
