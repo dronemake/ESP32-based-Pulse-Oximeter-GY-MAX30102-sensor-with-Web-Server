@@ -18,6 +18,15 @@ Breadboard or PCB,
 Power Supply,
 
 
+## Software Components
+
+Arduino IDE (or PlatformIO),
+ESP32 Libraries,
+MAX30100 Library,
+WiFi Library,
+Web Server Library,
+
+
 
 https://github.com/user-attachments/assets/aa5f8bda-6c3c-4543-bddb-a6da82004cfe
 
