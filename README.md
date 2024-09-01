@@ -26,7 +26,9 @@ MAX30100 Library,
 WiFi Library,
 Web Server Library,
 
-
+![Circuit diagram and connection](https://github.com/user-attachments/assets/d4202a4e-ab75-41e7-987d-5e09645779c7)
 
 https://github.com/user-attachments/assets/aa5f8bda-6c3c-4543-bddb-a6da82004cfe
+
+
 
